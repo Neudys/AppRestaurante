@@ -2,7 +2,8 @@
 
 Mini app para gestionar reservas y administrar el menú de un restaurante, usando el stack MERN (MongoDB, Express, React, Node).
 
-<img width="2517" height="1269" alt="image" src="https://github.com/user-attachments/assets/59230d31-a0a4-42ea-9d8c-28b50d56c916" />
+<img width="2516" height="1274" alt="image" src="https://github.com/user-attachments/assets/1a254a59-38c8-438d-9799-00e942b59287" />
+
 
 ## Características
 - Crear, listar y eliminar reservas.
