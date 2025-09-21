@@ -40,4 +40,7 @@ npm run dev
 
 4. Acceso  
    - Frontend: http://localhost:5173  
-   - API Backend: http://localhost:5001/api  
+   - API Backend: http://localhost:5001/api
+  
+##NOTA:
+- llegado cierto tiempo de no uso de la base de datos esta cae, en caso de no funcionar pasar una base de datos mongodb - node js con el link a el .env 
