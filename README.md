@@ -23,15 +23,20 @@ Mini app para gestionar reservas y administrar el menú de un restaurante, usand
    git clone https://github.com/Neudys/AppRestaurante.git
 
 2. Backend  
-   cd Backend
-   npm install
-   npm run dev
-
+```bash
+# Instalar dependencias
+cd backend
+npm install
+npm run dev
+```
 
 3. Frontend  ( otra terminal )
-   cd Frontend 
-   npm install  
-   npm run dev  
+```bash
+# Instalar dependencias
+cd frontend
+npm install
+npm run dev
+```
 
 4. Acceso  
    - Frontend: http://localhost:5173  
