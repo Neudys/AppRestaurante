@@ -43,4 +43,4 @@ npm run dev
    - API Backend: http://localhost:5001/api
   
 ##NOTA:
-- llegado cierto tiempo de no uso de la base de datos esta cae, en caso de no funcionar pasar una base de datos mongodb - node js con el link a el .env 
+- crear una base de datos en mongo db un cluster con coneccion node js, y pegar el string connector a el MONGO_URL = para completar el funcionamiento 
